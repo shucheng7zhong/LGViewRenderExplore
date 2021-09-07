@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0FDCEAF4-B53C-484D-B3F7-8CE05EBFFD75</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0FDCEAF4-B53C-484D-B3F7-8CE05EBFFD75.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LGViewRenderExplore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LGViewRenderExplore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LGViewRenderExplore</string>
+			<key>timeStartedRecording</key>
+			<real>644139714.46406305</real>
+			<key>timeStoppedRecording</key>
+			<real>644139715.93427002</real>
+			<key>title</key>
+			<string>Build LGViewRenderExplore</string>
+			<key>uniqueIdentifier</key>
+			<string>0FDCEAF4-B53C-484D-B3F7-8CE05EBFFD75</string>
+		</dict>
+		<key>C0A97C0D-FB8C-47F7-8A12-5B08D49358C3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C0A97C0D-FB8C-47F7-8A12-5B08D49358C3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>LGViewRenderExplore project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LGViewRenderExplore</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LGViewRenderExplore</string>
+			<key>timeStartedRecording</key>
+			<real>644139397.42174697</real>
+			<key>timeStoppedRecording</key>
+			<real>644139407.53048003</real>
+			<key>title</key>
+			<string>Build LGViewRenderExplore</string>
+			<key>uniqueIdentifier</key>
+			<string>C0A97C0D-FB8C-47F7-8A12-5B08D49358C3</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
